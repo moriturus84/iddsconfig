@@ -9,7 +9,7 @@ IpeLogger02,ch00008,NewChannel00008
 IpeLogger02,ch00009,NewChannel00009
 IpeLogger02,ch00010,NewChannel00010
 IpeLogger02,ch00011,Thermocouple
-IpeLogger02,ch00012,Coldjuntion
+IpeLogger02,ch00012,Coldjunction
 IpeLogger02,ch00013,NewChannel00013
 IpeLogger02,ch00014,NewChannel00014
 IpeLogger02,ch00015,NewChannel00015
