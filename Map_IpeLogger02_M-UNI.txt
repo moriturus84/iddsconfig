@@ -1,0 +1,8 @@
+IpeLogger02,ch00001,NewChannel00001
+IpeLogger02,ch00002,NewChannel00002
+IpeLogger02,ch00003,NewChannel00003
+IpeLogger02,ch00004,NewChannel00004
+IpeLogger02,ch00005,NewChannel00005
+IpeLogger02,ch00006,NewChannel00006
+IpeLogger02,ch00007,NewChannel00007
+IpeLogger02,ch00008,NewChannel00008
