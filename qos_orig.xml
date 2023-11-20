@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file defines the QoS in XML format.
+-->
+<dds>
+  <qos_profile name="mds-1">
+    <!-- ******************************************** -->
+    <!-- *************** PARTICIPANTS *************** -->
+    <!-- ******************************************** -->
+    <participant_qos name="participantServices">
+      <discovery>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_initial_nack>0</send_initial_nack>
+        <heartbeat_period>
+          <sec>0</sec>
+          <nanosec>500000000</nanosec>
+        </heartbeat_period>
+      </discovery>
+      <!-- MDS -->
+      <thread_model>
+        <use_threads>TRUE</use_threads>
+      </thread_model>
+    </participant_qos>
+    <participant_qos name="participantData">
+      <discovery>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_initial_nack>0</send_initial_nack>
+      </discovery>
+    </participant_qos>
+    <!-- ******************************************** -->
+    <!-- *************** CONTROL PATH *************** -->
+    <!-- ******************************************** -->
+    <datareader_qos name="readerAboutNode">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+    </datareader_qos>
+    <datawriter_qos name="writerAboutNode">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+      </rtps_writer>
+    </datawriter_qos>
+    <datareader_qos name="readerNodeIDMapping">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>TRANSIENT_LOCAL_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_ALL_HISTORY_QOS</kind>
+      </history>
+      <rtps_reader>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_initial_nack>0</send_initial_nack>
+      </rtps_reader>
+    </datareader_qos>
+    <datawriter_qos name="writerNodeIDMapping">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>TRANSIENT_LOCAL_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_ALL_HISTORY_QOS</kind>
+      </history>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+      </rtps_writer>
+    </datawriter_qos>
+    <datareader_qos name="readerNodeBackboneConfiguration">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>TRANSIENT_LOCAL_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_ALL_HISTORY_QOS</kind>
+      </history>
+      <rtps_reader>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_initial_nack>0</send_initial_nack>
+      </rtps_reader>
+    </datareader_qos>
+    <datawriter_qos name="writerNodeBackboneConfiguration">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>TRANSIENT_LOCAL_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_ALL_HISTORY_QOS</kind>
+      </history>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+      </rtps_writer>
+    </datawriter_qos>
+    <datareader_qos name="readerNodeApplicationConfiguration">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>TRANSIENT_LOCAL_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_ALL_HISTORY_QOS</kind>
+      </history>
+      <rtps_reader>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_initial_nack>0</send_initial_nack>
+      </rtps_reader>
+    </datareader_qos>
+    <datawriter_qos name="writerNodeApplicationConfiguration">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>TRANSIENT_LOCAL_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_ALL_HISTORY_QOS</kind>
+      </history>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+      </rtps_writer>
+    </datawriter_qos>
+    <datareader_qos name="readerParameterConfiguration">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>TRANSIENT_LOCAL_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_ALL_HISTORY_QOS</kind>
+      </history>
+      <rtps_reader>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_initial_nack>0</send_initial_nack>
+      </rtps_reader>
+    </datareader_qos>
+    <datawriter_qos name="writerParameterConfiguration">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>TRANSIENT_LOCAL_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_ALL_HISTORY_QOS</kind>
+      </history>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+      </rtps_writer>
+    </datawriter_qos>
+    <datareader_qos name="readerMessage">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <rtps_reader>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_initial_nack>0</send_initial_nack>
+      </rtps_reader>
+    </datareader_qos>
+    <datawriter_qos name="writerMessage">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>500</depth>
+      </history>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+      </rtps_writer>
+    </datawriter_qos>
+    <datareader_qos name="readerEvent">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <rtps_reader>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_initial_nack>0</send_initial_nack>
+      </rtps_reader>
+    </datareader_qos>
+    <datawriter_qos name="writerEvent">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+      </rtps_writer>
+    </datawriter_qos>
+    <!-- ***************************************************** -->
+    <!-- *************** ROLLS-ROYCE DATA PATH *************** -->
+    <!-- ***************************************************** -->
+    <datareader_qos name="readerParameterDataSeries">
+      <reliability>
+        <!-- EIM03069 issue 2 states can be RELIABLE_RELIABILITY or BEST_EFFORT according to use case -->
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>100000</nanosec>
+        </duration>
+      </latency_budget>
+      <rtps_reader>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <send_initial_nack>0</send_initial_nack>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <accept_batch_msg>FALSE</accept_batch_msg>
+      </rtps_reader>
+    </datareader_qos>
+    <datawriter_qos name="writerParameterDataSeries">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>100000</nanosec>
+        </duration>
+      </latency_budget>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <enable_batch_msg>FALSE</enable_batch_msg>
+        <heartbeat_period>
+          <sec>0</sec>
+          <nanosec>50000000</nanosec>
+        </heartbeat_period>
+        <apply_filters>FALSE</apply_filters>
+        <ack_deadline>
+          <sec>5</sec>
+          <nanosec>0</nanosec>
+        </ack_deadline>
+      </rtps_writer>
+    </datawriter_qos>
+    <!-- ***************************************************** -->
+    <!-- ********** MDS LIVE DATA PATH CONFIGURATION ********* -->
+    <!-- ***************************************************** -->
+    <!-- Reliable Data Writer -->
+    <datawriter_qos name="r">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>1500000</nanosec>
+        </duration>
+      </latency_budget>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <enable_batch_msg>FALSE</enable_batch_msg>
+        <heartbeat_period>
+          <sec>0</sec>
+          <nanosec>50000000</nanosec>
+        </heartbeat_period>
+        <apply_filters>FALSE</apply_filters>
+        <ack_deadline>
+          <sec>5</sec>
+          <nanosec>0</nanosec>
+        </ack_deadline>
+      </rtps_writer>
+    </datawriter_qos>
+    <!-- Reliable Filtered Data Writer -->
+    <datawriter_qos name="rf">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>1500000</nanosec>
+        </duration>
+      </latency_budget>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <enable_batch_msg>FALSE</enable_batch_msg>
+        <heartbeat_period>
+          <sec>0</sec>
+          <nanosec>50000000</nanosec>
+        </heartbeat_period>
+        <apply_filters>TRUE</apply_filters>
+        <ack_deadline>
+          <sec>5</sec>
+          <nanosec>0</nanosec>
+        </ack_deadline>
+      </rtps_writer>
+    </datawriter_qos>
+    <!-- Best Effort Data Writer -->
+    <datawriter_qos name="b">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>1500000</nanosec>
+        </duration>
+      </latency_budget>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <enable_batch_msg>FALSE</enable_batch_msg>
+        <heartbeat_period>
+          <sec>0</sec>
+          <nanosec>50000000</nanosec>
+        </heartbeat_period>
+        <apply_filters>FALSE</apply_filters>
+        <ack_deadline>
+          <sec>5</sec>
+          <nanosec>0</nanosec>
+        </ack_deadline>
+      </rtps_writer>
+    </datawriter_qos>
+    <!-- Best Effort Filtered Data Writer -->
+    <datawriter_qos name="bf">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>1500000</nanosec>
+        </duration>
+      </latency_budget>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <enable_batch_msg>FALSE</enable_batch_msg>
+        <heartbeat_period>
+          <sec>0</sec>
+          <nanosec>50000000</nanosec>
+        </heartbeat_period>
+        <apply_filters>TRUE</apply_filters>
+        <ack_deadline>
+          <sec>5</sec>
+          <nanosec>0</nanosec>
+        </ack_deadline>
+      </rtps_writer>
+    </datawriter_qos>
+    <!-- Domain 200 Best Effort Filtered Data Writer -->
+    <datawriter_qos name="bfd200">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <durability>
+        <kind>VOLATILE_DURABILITY_QOS</kind>
+      </durability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <!-- samples to keep per instance for the KEEP_LAST_HISTORY policy -->
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>100000</nanosec>
+        </duration>
+      </latency_budget>
+      <rtps_writer>
+        <!-- CoreDX programmer's guide V3.6 advises to disable this for interoperability -->
+        <send_typecode>0</send_typecode>
+        <enable_batch_msg>FALSE</enable_batch_msg>
+        <heartbeat_period>
+          <sec>0</sec>
+          <nanosec>50000000</nanosec>
+        </heartbeat_period>
+        <apply_filters>TRUE</apply_filters>
+        <ack_deadline>
+          <sec>5</sec>
+          <nanosec>0</nanosec>
+        </ack_deadline>
+      </rtps_writer>
+    </datawriter_qos>
+    <!-- Reliable Data Reader (Uncapped) -->
+    <datareader_qos name="r">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 200 Hz -->
+    <datareader_qos name="r200Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>5000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 100 Hz -->
+    <datareader_qos name="r100Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>10000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 66 Hz -->
+    <datareader_qos name="r66Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>15000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 50 Hz -->
+    <datareader_qos name="r50Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>20000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 33 Hz -->
+    <datareader_qos name="r33Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>30000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 20 Hz -->
+    <datareader_qos name="r20Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>50000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 10 Hz -->
+    <datareader_qos name="r10Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>100000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 5 Hz -->
+    <datareader_qos name="r5Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>200000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 2 Hz -->
+    <datareader_qos name="r2Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>500000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Reliable Data Reader @ 1 Hz -->
+    <datareader_qos name="r1Hz">
+      <reliability>
+        <kind>RELIABLE_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>1000000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader (Uncapped) -->
+    <datareader_qos name="b">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 200 Hz -->
+    <datareader_qos name="b200Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>5000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 100 Hz -->
+    <datareader_qos name="b100Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>10000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 66 Hz -->
+    <datareader_qos name="b66Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>15000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 50 Hz -->
+    <datareader_qos name="b50Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>20000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 33 Hz -->
+    <datareader_qos name="b33Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>30000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 20 Hz -->
+    <datareader_qos name="b20Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>50000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 10 Hz -->
+    <datareader_qos name="b10Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>100000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 5 Hz -->
+    <datareader_qos name="b5Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>200000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 2 Hz -->
+    <datareader_qos name="b2Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>500000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+    <!-- Best Effort Data Reader @ 1 Hz -->
+    <datareader_qos name="b1Hz">
+      <reliability>
+        <kind>BEST_EFFORT_RELIABILITY_QOS</kind>
+      </reliability>
+      <history>
+        <kind>KEEP_LAST_HISTORY_QOS</kind>
+        <depth>200</depth>
+      </history>
+      <latency_budget>
+        <duration>
+          <sec>0</sec>
+          <nanosec>2500000</nanosec>
+        </duration>
+      </latency_budget>
+      <time_based_filter>
+        <minimum_separation>
+          <sec>0</sec>
+          <nanosec>1000000000</nanosec>
+        </minimum_separation>
+      </time_based_filter>
+    </datareader_qos>
+  </qos_profile>
+</dds>
