@@ -3,7 +3,7 @@
 This file defines the QoS in XML format.
 -->
 <dds>
-  <qos_profile name="asdmds-1">
+  <qos_profile name="mds-1">
     <!-- ******************************************** -->
     <!-- *************** PARTICIPANTS *************** -->
     <!-- ******************************************** -->
