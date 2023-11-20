@@ -22,7 +22,7 @@ Module001/Config/ch00003,averagingDepth,100
 Module001/Config/ch00003,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
 Module001/Config/ch00003,physicalMin,-200
 Module001/Config/ch00003,physicalMax,1300
-Module001/Config/ch00003,physicalUnit,degC
+Module001/Config/ch00003,physicalUnit,DegC
 Module001/Config/ch00004,active,true
 Module001/Config/ch00004,sensorMode,SENSOR_MODE_TEMPERATURE
 Module001/Config/ch00004,physicalMin,-200 
