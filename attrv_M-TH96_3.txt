@@ -11,7 +11,7 @@ Module001/Config/ch00001,sensorMin,-200
 Module001/Config/ch00001,sensorMax,1300
 Module001/Config/ch00001,physicalMin,-200
 Module001/Config/ch00001,physicalMax,1300
-Module001/Config/ch00001,physicalUnit,DegK
+Module001/Config/ch00001,physicalUnit,DegC
 Module001/Config/ch00002,active,true
 Module001/Config/ch00002,sensorMode,SENSOR_MODE_TEMPERATURE
 Module001/Config/ch00002,sensorMin,-200 
