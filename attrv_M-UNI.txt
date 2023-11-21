@@ -1,3 +1,8 @@
+export IDDS_QOS_URL="./qos.xml"
+export IDDS_QOS_PROFILE="mds-1"
+export COREDX_UDP_MAX_TX_SIZE=1472
+export COREDX_USE_MULTICAST=YES
+
 Device001/deviceType,579
 Device001/frontNumber,00018
 Module001/Config,active,true
