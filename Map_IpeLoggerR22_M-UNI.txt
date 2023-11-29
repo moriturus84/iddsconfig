@@ -1,8 +1,8 @@
-IpeLoggerR22,ch00001,NewChannel00001
-IpeLoggerR22,ch00002,NewChannel00002
-IpeLoggerR22,ch00003,NewChannel00003
-IpeLoggerR22,ch00004,NewChannel00004
-IpeLoggerR22,ch00005,NewChannel00005
-IpeLoggerR22,ch00006,NewChannel00006
-IpeLoggerR22,ch00007,NewChannel00007
-IpeLoggerR22,ch00008,NewChannel00008
+IpeLoggerUNI,ch00001,NewChannel00001
+IpeLoggerUNI,ch00002,NewChannel00002
+IpeLoggerUNI,ch00003,NewChannel00003
+IpeLoggerUNI,ch00004,NewChannel00004
+IpeLoggerUNI,ch00005,NewChannel00005
+IpeLoggerUNI,ch00006,NewChannel00006
+IpeLoggerUNI,ch00007,NewChannel00007
+IpeLoggerUNI,ch00008,NewChannel00008
