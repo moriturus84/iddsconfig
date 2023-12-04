@@ -4,7 +4,7 @@ Module001/Config,active,true
 Module001/Config/ch00001,sensorBreakDetection,true
 Module001/Config/ch00001,sampleRate,10
 Module001/Config/ch00001,physicalUnit,degC
-Module001/Config/ch00002,sensorBreakDetection,false
+Module001/Config/ch00002,sensorBreakDetection,true
 Module001/Config/ch00002,sampleRate,10
 Module001/Config/ch00002,physicalUnit,degC
 Module001/Config/ch00003,sensorBreakDetection,true
