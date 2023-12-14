@@ -1,0 +1,6 @@
+IpeLogger02,		1.0,		13.2,	cfgfile,	1,	https://github.com/moriturus84/iddsconfig/raw/main/attrv_M-TH96.txt
+IpeLogger02,		1.0,		13.2,	    map,	1,	https://github.com/moriturus84/iddsconfig/raw/main/Map_M-TH96.txt
+IpeLoggerUNI,	    1.0,		13.2,	cfgfile,    1,	https://github.com/moriturus84/iddsconfig/raw/main/IPEHUB2_iDDS_M-UNI_CH7+8_NoBD.irf
+IpeLoggerUNI,		1.0,		13.2,	    map,	1,  https://github.com/moriturus84/iddsconfig/raw/main/Map_IpeLoggerR22_M-UNI.txt
+IpeSub02,           1.0,        1.0,      dummy,    1,  dummy
+

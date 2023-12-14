@@ -1,0 +1,38 @@
+A_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	ftp://IPE_Loggers.IPE_Loggers@clouddrive.ipetronik.com/iDDS_Tests/IPEmotionRT_M-TH96_NoFallbackIP.irf
+B_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	file:///media/MEA/remote/idds2/IPEHUB2_iDDS_M-UNI_CH8-DegC2.irf
+D_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	http://192.168.99.1/StorageData/DataRecovery/IPEHUB2_iDDS_M-UNI_CH7-DegC2.irf
+E0_IpeLogger02,		1.0,		13.1,	dummy,	    1,	192.168.99.1/StorageData/remote/idds/2023_R2.X/IPEHUB2_iDDS_M-UNI_CH7-DegC2.irf
+R22_IpeLogger02,	1.0,		13.1,	dummy,	    1,	https://github.com/moriturus84/iddsconfig/raw/main/IPEmotionRT_M-TH96_NoFallbackIP.irf
+T_IpeLogger02,		1.0,		13.2,	cfgfile,	1,	https://github.com/moriturus84/iddsconfig/raw/main/IPEmotionRT_M-TH96_NoFallbackIP_R3.irf
+T_IpeLogger02,		1.0,		13.2,	map,	    1,	https://github.com/moriturus84/iddsconfig/raw/main/Map_M-TH96.txt
+IpeLogger02,	    1.0,		13.2,	qos,	    1,	https://github.com/moriturus84/iddsconfig/raw/main/qos_test.xml
+IpeLogger02,	    1.0,		13.2,	   qos,	    1,	https://github.com/moriturus84/iddsconfig/raw/main/qos_orig.xml
+T_IpeLogger02,		1.0,		13.2,	cfgfile,	    1,	https://github.com/moriturus84/iddsconfig/raw/main/attrv_M-TH96.txt
+IpeLogger02,	    1.0,		13.2,	dummy,    1,	https://github.com/moriturus84/iddsconfig/raw/main/IPEHUB2_iDDS_M-UNI_CH7+8_NoBD.irf
+IpeLogger02,		1.0,		13.2,	attrv,	    1,	https://github.com/moriturus84/iddsconfig/raw/main/attrv_M-UNI.txt
+IpeLogger02,	    1.0,		13.2,	    map,    1,	https://github.com/moriturus84/iddsconfig/raw/main/Map_IpeLogger02_M-UNI.txt
+T_IpeLoggerR22,		1.0,		13.1,	cfgfile,	1,  https://github.com/moriturus84/iddsconfig/raw/main/IPEHUB2_SN339_iDDS_M-UNI.irf
+IpeLoggerR22,		1.0,		13.1,	cfgfile,	1,  https://github.com/moriturus84/iddsconfig/raw/main/IPEHUB2_SN339_iDDS_M-UNI_CH1+2_NoBD.irf
+IpeLoggerR22,		1.0,		13.1,	    map,	1,  https://github.com/moriturus84/iddsconfig/raw/main/Map_IpeLoggerR22_M-UNI.txt
+IpeLoggerR22,	    1.0,		13.1,	    qos,	1,	https://github.com/moriturus84/iddsconfig/raw/main/qos_test.xml
+E1_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	192.168.99.1/StorageData/remote/idds/2023_R2.X/IPEHUB2_iDDS_M-UNI_CH7-DegC2_CH6+7_NoBD.irf
+E1_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	192.168.99.1/StorageData/remote/idds/2023_R2.X/IPEmotionRT_M-TH96_NoFallbackIP.irf
+E1_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	192.168.99.1/StorageData/remote/idds/2023_R2.X/IPEHUB2_iDDS_M-UNI_CH8-DegC2.irf
+E4_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	192.168.99.1/StorageData/remote/idds/2023_R2.X/IPEmotionRT_M-TH96_254.irf
+E5_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	192.168.99.1/StorageData/remote/idds/2023_R2.X/IPEHUB2_iDDS_M-UNI_CH7-DegC2_NoDHCP.irf
+E2_IpeLogger02,		1.0,		13.1,	    map,	1,	192.168.99.1/StorageData/remote/idds/2023_R2.X/Map.txt
+E3_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	192.168.99.1/StorageData/remote/idds/2023_R2.X/IPEHUB2_iDDS_M-UNI_CH8-DegC2_CH6+7_NoBD.irf
+F_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	http://192.168.99.1/StorageData/remote/idds/2023_R2.X/IPEHUB2_iDDS_M-UNI_CH7-DegC2.irf
+X_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	https://<customer_domain@customer.com/path/filename.irf
+Y_IpeLogger02,		1.0,		13.1,	cfgfile,	1,	ftp://<user name>.<password>@<customer_domain@customer.com/path/filename.irf
+
+IpeLoggerUNI,		1.0,		13.2,	cfgfile,	1,  https://github.com/moriturus84/iddsconfig/raw/main/attrv_M-UNI.txt
+IpeLoggerUNI,		1.0,		13.2,	cfgfile,	1,  https://github.com/moriturus84/iddsconfig/raw/main/ptp4lSlave.irf
+IpeLoggerUNI,		1.0,		13.2,	cfgfile,	1,  https://github.com/moriturus84/iddsconfig/raw/main/IPEHUB2_iDDS_M-UNI_CH7+8_NoBD_ptp2.irf
+IpeLoggerUNI,		1.0,		13.2,	cfgfile,	1,  https://github.com/moriturus84/iddsconfig/raw/main/attrv_M-UNI.txt
+IpeLogger02,		1.0,		13.2,	cfgfile,	1,  https://github.com/moriturus84/iddsconfig/raw/main/ptp4lSlave.irf
+IpeLogger02,		1.0,		13.2,	cfgfile,	1,	https://github.com/moriturus84/iddsconfig/raw/main/IPEmotionRT_M-TH96_NoFallbackIP_R3_ptp.irf
+
+
+
+
