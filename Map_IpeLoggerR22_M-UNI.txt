@@ -1,6 +1,8 @@
 IpeLoggerUNI,ch00001,NewChannel00001
 IpeLoggerUNI,ch00002,NewChannel00002
 IpeLoggerUNI,ch00003,NewChannel00003
+IpeLoggerUNI,ch00004,NewChannel00004
+IpeLoggerUNI,ch00005,NewChannel00005
 IpeLoggerUNI,ch00006,NewChannel00006
 IpeLoggerUNI,ch00007,NewChannel00007
 IpeLoggerUNI,ch00008,NewChannel00008
