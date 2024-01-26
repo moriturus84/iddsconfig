@@ -9,12 +9,12 @@ Module001/Config/ch00001,averagingDepth,100
 Module001/Config/ch00001,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
 Module001/Config/ch00001,physicalMin,-200
 Module001/Config/ch00001,physicalMax,1300
-Module001/Config/ch00001,physicalUnit,degC
+Module001/Config/ch00001,physicalUnit,DegC
 Module001/Config/ch00002,active,true
 Module001/Config/ch00002,sensorMode,SENSOR_MODE_TEMPERATURE
 Module001/Config/ch00002,physicalMin,-200
 Module001/Config/ch00002,physicalMax,178.167
-Module001/Config/ch00002,physicalUnit,degC2
+Module001/Config/ch00002,physicalUnit,DegC2
 Module001/Config/ch00003,active,true
 Module001/Config/ch00003,sensorBreakDetection,false
 Module001/Config/ch00003,sensorBreakThreshold,1000
@@ -22,9 +22,9 @@ Module001/Config/ch00003,averagingDepth,100
 Module001/Config/ch00003,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
 Module001/Config/ch00003,physicalMin,-200
 Module001/Config/ch00003,physicalMax,1300
-Module001/Config/ch00003,physicalUnit,degC
+Module001/Config/ch00003,physicalUnit,K
 Module001/Config/ch00004,active,true
 Module001/Config/ch00004,sensorMode,SENSOR_MODE_TEMPERATURE
 Module001/Config/ch00004,physicalMin,-200
 Module001/Config/ch00004,physicalMax,178.167
-Module001/Config/ch00004,physicalUnit,degC
+Module001/Config/ch00004,physicalUnit,K
