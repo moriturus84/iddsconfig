@@ -1,3 +1,11 @@
+IpeLoggerTHERMO2,ch00001,NewChannel00001
+IpeLoggerTHERMO2,ch00002,NewChannel00002
+IpeLoggerTHERMO2,ch00003,NewChannel00003
+IpeLoggerTHERMO2,ch00004,NewChannel00004
+IpeLoggerTHERMO2,ch00005,NewChannel00005
+IpeLoggerTHERMO2,ch00006,NewChannel00006
+IpeLoggerTHERMO2,ch00007,NewChannel00007
+IpeLoggerTHERMO2,ch00008,NewChannel00008
 IpeLoggerUNI,ch00001,NewChannel00001
 IpeLoggerUNI,ch00002,NewChannel00002
 IpeLoggerUNI,ch00003,NewChannel00003
