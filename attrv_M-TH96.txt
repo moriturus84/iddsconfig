@@ -26,3 +26,5 @@ Module001/Config/ch00003,physicalUnit,DegC
 Module001/Config/ch00004,active,true
 Module001/Config/ch00004,sensorMode,SENSOR_MODE_TEMPERATURE
 Module001/Config/ch00004,physicalUnit,DegC
+Module001/Config/ch00005,active,true
+Module001/Config/ch00005,physicalUnit,l/min
