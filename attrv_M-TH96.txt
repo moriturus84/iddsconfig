@@ -499,7 +499,7 @@ Module001/Config/ch00008,scalingMode,FactorOffset
 Module001/Config/ch00008,factor,1
 Module001/Config/ch00008,offset,273.15
 Module001/Config/ch00008,physicalUnit,K
-Module001/Config/ch00009,sensorMode,MODE_THERMOCOUPLE
+Module001/Config/ch00009,sensorMode,SENSOR_MODE_THERMOCOUPLE
 Module001/Config/ch00009,selectedCharacteristic,1
 Module001/Config/ch00009,scalingMode,FactorOffset
 Module001/Config/ch00009,factor,1
