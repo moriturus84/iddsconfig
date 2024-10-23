@@ -15,7 +15,7 @@ Module001/Config/ch00002,active,true
 Module001/Config/ch00002,sensorMode,SENSOR_MODE_TEMPERATURE
 Module001/Config/ch00002,scalingMode,FactorOffset
 Module001/Config/ch00002,factor,1
-Module001/Config/ch00002,offset,237,15
+Module001/Config/ch00002,offset,237.1
 Module001/Config/ch00002,physicalUnit,K
 Module001/Config/ch00003,active,true
 Module001/Config/ch00003,sensorBreakDetection,false
@@ -28,7 +28,6 @@ Module001/Config/ch00004,sensorMode,SENSOR_MODE_TEMPERATURE
 Module001/Config/ch00004,physicalUnit,DegC
 Module001/Config/ch00005,active,true
 Module001/Config/ch00005,physicalUnit,l/min
-
 Module001/Config,nameCharacteristic1,CustomSuperCurve1
 Module001/Config,characteristicSize1,229
 Module001/Config,characteristicPoint1X1,-988.6
