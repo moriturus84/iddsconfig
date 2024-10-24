@@ -8,7 +8,7 @@ Module001/Config/ch00001,scalingMode,FactorOffset
 Module001/Config/ch00001,factor,1
 Module001/Config/ch00001,offset,273.15
 Module001/Config/ch00001,physicalUnit,degK
-Module001/Config/ch00001,sensorBreakDetection,false
+Module001/Config/ch00001,sensorBreakDetection,true
 Module001/Config/ch00001,sensorBreakThreshold,1000
 Module001/Config/ch00001,averagingDepth,10
 Module001/Config/ch00002,active,true
