@@ -27,3 +27,9 @@ Module001/Config/ch00005,physicalUnit,degK
 Module001/Config/ch00006,active,true
 Module001/Config/ch00006,sensorMode,SENSOR_MODE_TEMPERATURE
 Module001/Config/ch00006,physicalUnit,degK
+Module001/Config/ch00007,active,true
+Module001/Config/ch00007,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
+Module001/Config/ch00007,physicalUnit,degK
+Module001/Config/ch00008,active,true
+Module001/Config/ch00008,sensorMode,SENSOR_MODE_TEMPERATURE
+Module001/Config/ch00008,physicalUnit,degK
