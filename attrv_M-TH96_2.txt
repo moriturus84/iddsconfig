@@ -19,7 +19,6 @@ Module001/Config/ch00003,sensorBreakThreshold,1000
 Module001/Config/ch00003,averagingDepth,100
 Module001/Config/ch00004,active,true
 Module001/Config/ch00004,sensorMode,SENSOR_MODE_TEMPERATURE
-Module001/Config/ch00004,averagingDepth,100
 Module001/Config/ch00004,physicalUnit,degC
 Module001/Config/ch00005,active,true
 Module001/Config/ch00005,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
