@@ -14,7 +14,7 @@ Module001/Config/ch00002,physicalUnit,degK
 Module001/Config/ch00003,active,true
 Module001/Config/ch00003,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
 Module001/Config/ch00003,physicalUnit,degC
-Module001/Config/ch00003,sensorBreakDetection,false
+Module001/Config/ch00003,sensorBreakDetection,true
 Module001/Config/ch00003,sensorBreakThreshold,1000
 Module001/Config/ch00003,averagingDepth,100
 Module001/Config/ch00004,active,true
