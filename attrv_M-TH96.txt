@@ -3,7 +3,7 @@ Device001/frontNumber,00101
 Module001/Config,active,true
 Module001/Config,sampleRate,10
 Module001/Config/ch00001,active,true
-Module001/Config/ch00001,sensorBreakDetection,false
+Module001/Config/ch00001,sensorBreakDetection,true
 Module001/Config/ch00001,sensorBreakThreshold,1000
 Module001/Config/ch00001,averagingDepth,100
 Module001/Config/ch00001,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
@@ -18,7 +18,7 @@ Module001/Config/ch00002,factor,1
 Module001/Config/ch00002,offset,273.15
 Module001/Config/ch00002,physicalUnit,K
 Module001/Config/ch00003,active,true
-Module001/Config/ch00003,sensorBreakDetection,false
+Module001/Config/ch00003,sensorBreakDetection,true
 Module001/Config/ch00003,sensorBreakThreshold,1000
 Module001/Config/ch00003,averagingDepth,100
 Module001/Config/ch00003,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
