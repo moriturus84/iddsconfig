@@ -7,7 +7,7 @@ Module001/Config/ch00001,sensorBreakDetection,true
 Module001/Config/ch00001,sensorBreakThreshold,1000
 Module001/Config/ch00001,averagingDepth,100
 Module001/Config/ch00001,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
-Module001/Config/ch00001,scalingMode,FactorOffset
+Module001/Config/ch00001,scalingMode,FactorOffeset
 Module001/Config/ch00001,factor,1
 Module001/Config/ch00001,offset,273.15
 Module001/Config/ch00001,physicalUnit,K
