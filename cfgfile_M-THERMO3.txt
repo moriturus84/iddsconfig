@@ -19,9 +19,9 @@ Module001/Config/ch00002,averagingDepth,5
 Module001/Config/ch00002,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
 Module001/Config/ch00002,physicalUnit,°C
 Module001/Config,active,true
-Module001/Config/ch00001,sampleRate,10
-Module001/Config/ch00001,active,true
-Module001/Config/ch00001,sensorBreakDetection,true
-Module001/Config/ch00001,averagingDepth,10
-Module001/Config/ch00001,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
-Module001/Config/ch00001,physicalUnit,°C
+Module001/Config/ch00003,sampleRate,10
+Module001/Config/ch00003,active,true
+Module001/Config/ch00003,sensorBreakDetection,true
+Module001/Config/ch00003,averagingDepth,10
+Module001/Config/ch00003,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
+Module001/Config/ch00003,physicalUnit,°C
