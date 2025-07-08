@@ -1,0 +1,13 @@
+Device001/deviceType,540
+Device001/frontNumber,00313
+Module001/Config,active,true
+Module001/Config/ch00001,sampleRate,10
+Module001/Config/ch00001,active,true
+Module001/Config/ch00001,sensorBreakDetection,true
+Module001/Config/ch00001,averagingDepth,5
+Module001/Config/ch00001,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
+Module001/Config/ch00001,sensorMin,-270
+Module001/Config/ch00001,sensorMax,1372
+Module001/Config/ch00001,physicalMin,-270
+Module001/Config/ch00001,physicalMax,1372
+Module001/Config/ch00001,physicalUnit,°C
