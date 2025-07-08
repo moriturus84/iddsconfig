@@ -167,7 +167,7 @@ Module001/Config,active,true
 Module001/Config/ch00001,active,true
 Module001/Config/ch00001,sensorBreakDetection,true
 Module001/Config/ch00001,averagingDepth,5
-Module001/Config/ch00001,sampleRate,1
+Module001/Config/ch00001,sampleRate,20
 Module001/Config/ch00002,active,true
 Module001/Config/ch00002,sensorBreakDetection,true
 Module001/Config/ch00002,averagingDepth,10
