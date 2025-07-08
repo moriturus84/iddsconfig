@@ -22,7 +22,7 @@ Module001/Config/ch00002,physicalMin,3.15
 Module001/Config/ch00002,physicalMax,1573.15
 Module001/Config/ch00002,physicalUnit,K
 Module001/Config/ch00003,active,true
-Module001/Config/ch00003,sensorBreakDetection,true
+Module001/Config/ch00003,sensorBreakDetection,false
 Module001/Config/ch00003,averagingDepth,10
 Module001/Config/ch00003,sampleRate,100
 Module001/Config/ch00003,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_N
@@ -32,7 +32,7 @@ Module001/Config/ch00003,physicalMin,3.15
 Module001/Config/ch00003,physicalMax,1573.15
 Module001/Config/ch00003,physicalUnit,K
 Module001/Config/ch00004,active,true
-Module001/Config/ch00004,sensorBreakDetection,true
+Module001/Config/ch00004,sensorBreakDetection,false
 Module001/Config/ch00004,averagingDepth,5
 Module001/Config/ch00004,sampleRate,10
 Module001/Config/ch00004,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
