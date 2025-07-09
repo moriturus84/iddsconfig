@@ -4,7 +4,7 @@ Module001/Config,active,true
 Module001/Config/ch00001,active,true
 Module001/Config/ch00001,sensorBreakDetection,true
 Module001/Config/ch00001,averagingDepth,10
-Module001/Config/ch00001,sampleRate,100
+Module001/Config/ch00001,sampleRate,20
 Module001/Config/ch00001,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_N
 Module001/Config/ch00001,sensorMin,-270
 Module001/Config/ch00001,sensorMax,1300
