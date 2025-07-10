@@ -24,9 +24,17 @@ Module001/Config/ch00003,sensorBreakDetection,true
 Module001/Config/ch00003,sensorBreakThreshold,1000
 Module001/Config/ch00003,averagingDepth,100
 Module001/Config/ch00003,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_K
+Module001/Config/ch00003,sensorMin,-200
+Module001/Config/ch00003,sensorMax,1300
+Module001/Config/ch00003,physicalMin,-200
+Module001/Config/ch00003,physicalMax,1300
 Module001/Config/ch00003,physicalUnit,DegC
 Module001/Config/ch00004,active,true
 Module001/Config/ch00004,sensorMode,SENSOR_MODE_TEMPERATURE
+Module001/Config/ch00004,sensorMin,-200 
+Module001/Config/ch00004,sensorMax,178.167
+Module001/Config/ch00004,physicalMin,-200
+Module001/Config/ch00004,physicalMax,178.167
 Module001/Config/ch00004,physicalUnit,DegC
 Module001/Config,nameCharacteristic1,CustomSuperCurve1
 Module001/Config,characteristicSize1,229
