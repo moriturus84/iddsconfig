@@ -53,6 +53,8 @@ Module001/Config/ch00006,sensorMax,178.167
 Module001/Config/ch00006,physicalMin,-200
 Module001/Config/ch00006,physicalMax,178.167
 Module001/Config/ch00006,physicalUnit,DegC
+Module001/Config,sensorUnitCharacteristic1,muV
+Module001/Config,physicalUnitCharacteristic1,DegC
 Module001/Config,nameCharacteristic1,CustomSuperCurve1
 Module001/Config,characteristicSize1,229
 Module001/Config,characteristicPoint1X1,-988.6
