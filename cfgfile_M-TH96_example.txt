@@ -536,7 +536,7 @@ Module001/Config,characteristicPoint2Y8,1150
 Module001/Config,characteristicPoint2X9,52410
 Module001/Config,characteristicPoint2Y9,1350
 Module001/Config/ch00007,sensorMode,SENSOR_MODE_THERMOCOUPLE
-Module001/Config/ch00007,selectedCharacteristic,1
+Module001/Config/ch00007,selectedCharacteristic,2
 Module001/Config/ch00007,sensorMin,-78125
 Module001/Config/ch00007,sensorMax,78125
 Module001/Config/ch00007,physicalMin,-77851.85
