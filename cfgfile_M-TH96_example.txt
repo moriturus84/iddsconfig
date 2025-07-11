@@ -552,7 +552,7 @@ Module002/Config,active,true
 Module002/Config,sampleRate,50
 Module003/Config,active,true
 Module003/Config,sampleRate,50
-Module004/Config,active,false
+Module004/Config,active,true
 Module004/Config,sampleRate,50
 Module004/Config,sensorUnitCharacteristic1,muV
 Module004/Config,physicalUnitCharacteristic1,DegC
@@ -713,7 +713,5 @@ Module004/Config/ch00008,sensorMax,178.167
 Module004/Config/ch00008,physicalMin,73.15
 Module004/Config/ch00008,physicalMax,451.317
 Module004/Config/ch00008,physicalUnit,K
-Module005/Config,active,false
-Module005/Config,sampleRate,50
-Module006/Config,active,false
-Module006/Config,sampleRate,50
+Module005/Config,active,true
+Module006/Config,active,true
