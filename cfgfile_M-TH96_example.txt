@@ -1,7 +1,7 @@
 Device001/deviceType,740
 Device001/frontNumber,00002
 Module001/Config,active,true
-Module001/Config,sampleRate,50
+Module001/Config,sampleRate,100
 Module001/Config/ch00001,active,true
 Module001/Config/ch00001,sensorBreakDetection,true
 Module001/Config/ch00001,sensorBreakThreshold,1000
@@ -549,11 +549,11 @@ Module001/Config/ch00008,physicalMin,73.15
 Module001/Config/ch00008,physicalMax,451.317
 Module001/Config/ch00008,physicalUnit,K
 Module002/Config,active,true
-Module002/Config,sampleRate,50
+Module002/Config,sampleRate,100
 Module003/Config,active,true
-Module003/Config,sampleRate,50
+Module003/Config,sampleRate,100
 Module004/Config,active,true
-Module004/Config,sampleRate,50
+Module004/Config,sampleRate,100
 Module004/Config,sensorUnitCharacteristic1,muV
 Module004/Config,physicalUnitCharacteristic1,DegC
 Module004/Config,nameCharacteristic1,SuperCurve1
@@ -714,6 +714,6 @@ Module004/Config/ch00008,physicalMin,73.15
 Module004/Config/ch00008,physicalMax,451.317
 Module004/Config/ch00008,physicalUnit,K
 Module005/Config,active,true
-Module005/Config,sampleRate,50
+Module005/Config,sampleRate,100
 Module006/Config,active,true
-Module006/Config,sampleRate,50
+Module006/Config,sampleRate,100
