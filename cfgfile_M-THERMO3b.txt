@@ -162,8 +162,3 @@ Module001/Config/ch00016,sensorMax,1372
 Module001/Config/ch00016,physicalMin,3.15
 Module001/Config/ch00016,physicalMax,1645.15
 Module001/Config/ch00016,physicalUnit,K
-
-
-
-
-
