@@ -1,202 +1,192 @@
-IpeLogger02#NewChannel00001,		1,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00002,		2,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00003,		3,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00004,		4,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00005,		5,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00006,		6,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00007,		7,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00008,		8,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00009,		9,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00010,		10,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#Thermocouple,		    11,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#Coldjunction,		    12,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00013,		13,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00014,		14,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00015,		15,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00016,		16,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00017,		17,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00018,		18,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00019,		19,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00020,		20,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00021,		21,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00022,		22,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00023,		23,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00024,		24,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00025,		25,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00026,		26,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00027,		27,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00028,		28,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00029,		29,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00030,		30,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00031,		31,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00032,		32,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00033,		33,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00034,		34,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00035,		35,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00036,		36,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00037,		37,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00038,		38,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00039,		39,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00040,		40,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00041,		41,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00042,		42,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00043,		43,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00044,		44,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00045,		45,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00046,		46,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00047,		47,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00048,		48,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00049,		49,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00050,		50,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00051,		51,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00052,		52,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00053,		53,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00054,		54,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00055,		55,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00056,		56,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00057,		57,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00058,		58,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00059,		59,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00060,		60,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00061,		61,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00062,		62,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00063,		63,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00064,		64,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00065,		65,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00066,		66,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00067,		67,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00068,		68,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00069,		69,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00070,		70,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00071,		71,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00072,		72,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00073,		73,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00074,		74,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00075,		75,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00076,		76,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00077,		77,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00078,		78,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00079,		79,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00080,		80,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00081,		81,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00082,		82,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00083,		83,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00084,		84,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00085,		85,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00086,		86,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00087,		87,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00088,		88,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00089,		89,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00090,		90,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00091,		91,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00092,		92,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00093,		93,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00094,		94,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00095,		95,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00096,		96,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00097,		97,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00098,		98,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00099,		99,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00100,	   100,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00101,	   101,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00102,	   102,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00103,	   103,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00104,	   104,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00105,	   105,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00106,	   106,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00107,	   107,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00108,	   108,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00109,	   109,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00110,	   110,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00111,	   111,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00112,	   112,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00113,	   113,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00114,	   114,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00115,	   115,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00116,	   116,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00117,	   117,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00118,	   118,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00119,	   119,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00120,	   120,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00121,	   121,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00122,	   122,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00123,	   123,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00124,	   124,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00125,	   125,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00126,	   126,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00127,	   127,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00128,	   128,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00129,	   129,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00130,	   130,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00131,	   131,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00132,	   132,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00133,	   133,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00134,	   134,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00135,	   135,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00136,	   136,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00137,	   137,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00138,	   138,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00139,	   139,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00140,	   140,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00141,	   141,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00142,	   142,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00143,	   143,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00144,	   144,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00145,	   145,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00146,	   146,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00147,	   147,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00148,	   148,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00149,	   149,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00150,	   150,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00151,	   151,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00152,	   152,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00153,	   153,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00154,	   154,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00155,	   155,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00156,	   156,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00157,	   157,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00158,	   158,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00159,	   159,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00160,	   160,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00161,	   161,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00162,	   162,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00163,	   163,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00164,	   164,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00165,	   165,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00166,	   166,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00167,	   167,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00168,	   168,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00169,	   169,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00170,	   170,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00171,	   171,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00172,	   172,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00173,	   173,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00174,	   174,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00175,	   175,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00176,	   176,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00177,	   177,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00178,	   178,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00179,	   179,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00180,	   180,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00181,	   181,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00182,	   182,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00183,	   183,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00184,	   184,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00185,	   185,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00186,	   186,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00187,	   187,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00188,	   188,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00189,	   189,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00190,	   190,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00191,	   191,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLogger02#NewChannel00192,	   192,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLoggerUNI#NewChannel00001,	   201,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLoggerUNI#NewChannel00002,	   202,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLoggerUNI#NewChannel00003,	   203,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLoggerUNI#NewChannel00004,	   204,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLoggerUNI#NewChannel00005,	   205,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLoggerUNI#NewChannel00006,	   206,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLoggerUNI#NewChannel00007,	   207,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-IpeLoggerUNI#NewChannel00008,	   208,	DegC,	DataTypeFloat,	3,	IpeTopic,		ipePartition
-
-
+1	IpeLogger02#Ch01,	1001,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+2	IpeLogger02#Ch01_R,	1002,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+3	IpeLogger02#Ch02,	1003,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+4	IpeLogger02#Ch02_R,	1004,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+5	IpeLogger02#Ch03,	1005,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+6	IpeLogger02#Ch03_R,	1006,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+7	IpeLogger02#Ch04,	1007,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+8	IpeLogger02#Ch04_R,	1008,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+9	IpeLogger02#Ch05,	1009,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+10	IpeLogger02#Ch05_R,	1010,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+11	IpeLogger02#Ch06,	1011,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+12	IpeLogger02#Ch06_R,	1012,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+13	IpeLogger02#Ch07,	1013,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+14	IpeLogger02#Ch07_R,	1014,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+15	IpeLogger02#Ch08,	1015,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+16	IpeLogger02#Ch08_R,	1016,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+17	IpeLogger02#Ch09,	1017,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+18	IpeLogger02#Ch09_R,	1018,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+19	IpeLogger02#Ch10,	1019,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+20	IpeLogger02#Ch10_R,	1020,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+21	IpeLogger02#Ch11,	1021,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+22	IpeLogger02#Ch11_R,	1022,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+23	IpeLogger02#Ch12,	1023,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+24	IpeLogger02#Ch12_R,	1024,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+25	IpeLogger02#Ch13,	1025,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+26	IpeLogger02#Ch13_R,	1026,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+27	IpeLogger02#Ch14,	1027,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+28	IpeLogger02#Ch14_R,	1028,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+29	IpeLogger02#Ch15,	1029,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+30	IpeLogger02#Ch15_R,	1030,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+31	IpeLogger02#Ch16,	1031,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+32	IpeLogger02#Ch16_R,	1032,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+33	IpeLogger02#Ch17,	1033,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+34	IpeLogger02#Ch17_R,	1034,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+35	IpeLogger02#Ch18,	1035,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+36	IpeLogger02#Ch18_R,	1036,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+37	IpeLogger02#Ch19,	1037,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+38	IpeLogger02#Ch19_R,	1038,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+39	IpeLogger02#Ch20,	1039,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+40	IpeLogger02#Ch20_R,	1040,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+41	IpeLogger02#Ch21,	1041,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+42	IpeLogger02#Ch21_R,	1042,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+43	IpeLogger02#Ch22,	1043,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+44	IpeLogger02#Ch22_R,	1044,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+45	IpeLogger02#Ch23,	1045,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+46	IpeLogger02#Ch23_R,	1046,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+47	IpeLogger02#Ch24,	1047,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+48	IpeLogger02#Ch24_R,	1048,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+49	IpeLogger02#Ch25,	1049,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+50	IpeLogger02#Ch25_R,	1050,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+51	IpeLogger02#Ch26,	1051,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+52	IpeLogger02#Ch26_R,	1052,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+53	IpeLogger02#Ch27,	1053,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+54	IpeLogger02#Ch27_R,	1054,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+55	IpeLogger02#Ch28,	1055,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+56	IpeLogger02#Ch28_R,	1056,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+57	IpeLogger02#Ch29,	1057,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+58	IpeLogger02#Ch29_R,	1058,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+59	IpeLogger02#Ch30,	1059,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+60	IpeLogger02#Ch30_R,	1060,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+61	IpeLogger02#Ch31,	1061,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+62	IpeLogger02#Ch31_R,	1062,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+63	IpeLogger02#Ch32,	1063,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+64	IpeLogger02#Ch32_R,	1064,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+65	IpeLogger02#Ch33,	1065,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+66	IpeLogger02#Ch33_R,	1066,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+67	IpeLogger02#Ch34,	1067,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+68	IpeLogger02#Ch34_R,	1068,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+69	IpeLogger02#Ch35,	1069,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+70	IpeLogger02#Ch35_R,	1070,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+71	IpeLogger02#Ch36,	1071,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+72	IpeLogger02#Ch36_R,	1072,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+73	IpeLogger02#Ch37,	1073,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+74	IpeLogger02#Ch37_R,	1074,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+75	IpeLogger02#Ch38,	1075,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+76	IpeLogger02#Ch38_R,	1076,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+77	IpeLogger02#Ch39,	1077,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+78	IpeLogger02#Ch39_R,	1078,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+79	IpeLogger02#Ch40,	1079,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+80	IpeLogger02#Ch40_R,	1080,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+81	IpeLogger02#Ch41,	1081,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+82	IpeLogger02#Ch41_R,	1082,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+83	IpeLogger02#Ch42,	1083,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+84	IpeLogger02#Ch42_R,	1084,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+85	IpeLogger02#Ch43,	1085,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+86	IpeLogger02#Ch43_R,	1086,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+87	IpeLogger02#Ch44,	1087,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+88	IpeLogger02#Ch44_R,	1088,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+89	IpeLogger02#Ch45,	1089,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+90	IpeLogger02#Ch45_R,	1090,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+91	IpeLogger02#Ch46,	1091,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+92	IpeLogger02#Ch46_R,	1092,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+93	IpeLogger02#Ch47,	1093,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+94	IpeLogger02#Ch47_R,	1094,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+95	IpeLogger02#Ch48,	1095,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+96	IpeLogger02#Ch48_R,	1096,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+97	IpeLogger02#Ch49,	1097,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+98	IpeLogger02#Ch49_R,	1098,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+99	IpeLogger02#Ch50,	1099,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+100	IpeLogger02#Ch50_R,	1100,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+101	IpeLogger02#Ch51,	1101,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+102	IpeLogger02#Ch51_R,	1102,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+103	IpeLogger02#Ch52,	1103,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+104	IpeLogger02#Ch52_R,	1104,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+105	IpeLogger02#Ch53,	1105,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+106	IpeLogger02#Ch53_R,	1106,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+107	IpeLogger02#Ch54,	1107,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+108	IpeLogger02#Ch54_R,	1108,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+109	IpeLogger02#Ch55,	1109,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+110	IpeLogger02#Ch55_R,	1110,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+111	IpeLogger02#Ch56,	1111,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+112	IpeLogger02#Ch56_R,	1112,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+113	IpeLogger02#Ch57,	1113,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+114	IpeLogger02#Ch57_R,	1114,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+115	IpeLogger02#Ch58,	1115,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+116	IpeLogger02#Ch58_R,	1116,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+117	IpeLogger02#Ch59,	1117,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+118	IpeLogger02#Ch59_R,	1118,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+119	IpeLogger02#Ch60,	1119,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+120	IpeLogger02#Ch60_R,	1120,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+121	IpeLogger02#Ch61,	1121,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+122	IpeLogger02#Ch61_R,	1122,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+123	IpeLogger02#Ch62,	1123,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+124	IpeLogger02#Ch62_R,	1124,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+125	IpeLogger02#Ch63,	1125,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+126	IpeLogger02#Ch63_R,	1126,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+127	IpeLogger02#Ch64,	1127,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+128	IpeLogger02#Ch64_R,	1128,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+129	IpeLogger02#Ch65,	1129,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+130	IpeLogger02#Ch65_R,	1130,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+131	IpeLogger02#Ch66,	1131,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+132	IpeLogger02#Ch66_R,	1132,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+133	IpeLogger02#Ch67,	1133,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+134	IpeLogger02#Ch67_R,	1134,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+135	IpeLogger02#Ch68,	1135,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+136	IpeLogger02#Ch68_R,	1136,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+137	IpeLogger02#Ch69,	1137,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+138	IpeLogger02#Ch69_R,	1138,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+139	IpeLogger02#Ch70,	1139,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+140	IpeLogger02#Ch70_R,	1140,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+141	IpeLogger02#Ch71,	1141,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+142	IpeLogger02#Ch71_R,	1142,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+143	IpeLogger02#Ch72,	1143,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+144	IpeLogger02#Ch72_R,	1144,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+145	IpeLogger02#Ch73,	1145,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+146	IpeLogger02#Ch73_R,	1146,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+147	IpeLogger02#Ch74,	1147,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+148	IpeLogger02#Ch74_R,	1148,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+149	IpeLogger02#Ch75,	1149,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+150	IpeLogger02#Ch75_R,	1150,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+151	IpeLogger02#Ch76,	1151,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+152	IpeLogger02#Ch76_R,	1152,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+153	IpeLogger02#Ch77,	1153,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+154	IpeLogger02#Ch77_R,	1154,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+155	IpeLogger02#Ch78,	1155,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+156	IpeLogger02#Ch78_R,	1156,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+157	IpeLogger02#Ch79,	1157,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+158	IpeLogger02#Ch79_R,	1158,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+159	IpeLogger02#Ch80,	1159,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+160	IpeLogger02#Ch80_R,	1160,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+161	IpeLogger02#Ch81,	1161,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+162	IpeLogger02#Ch81_R,	1162,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+163	IpeLogger02#Ch82,	1163,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+164	IpeLogger02#Ch82_R,	1164,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+165	IpeLogger02#Ch83,	1165,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+166	IpeLogger02#Ch83_R,	1166,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+167	IpeLogger02#Ch84,	1167,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+168	IpeLogger02#Ch84_R,	1168,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+169	IpeLogger02#Ch85,	1169,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+170	IpeLogger02#Ch85_R,	1170,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+171	IpeLogger02#Ch86,	1171,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+172	IpeLogger02#Ch86_R,	1172,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+173	IpeLogger02#Ch87,	1173,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+174	IpeLogger02#Ch87_R,	1174,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+175	IpeLogger02#Ch88,	1175,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+176	IpeLogger02#Ch88_R,	1176,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+177	IpeLogger02#Ch89,	1177,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+178	IpeLogger02#Ch89_R,	1178,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+179	IpeLogger02#Ch90,	1179,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+180	IpeLogger02#Ch90_R,	1180,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+181	IpeLogger02#Ch91,	1181,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+182	IpeLogger02#Ch91_R,	1182,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+183	IpeLogger02#Ch92,	1183,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+184	IpeLogger02#Ch92_R,	1184,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+185	IpeLogger02#Ch93,	1185,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+186	IpeLogger02#Ch93_R,	1186,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+187	IpeLogger02#Ch94,	1187,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+188	IpeLogger02#Ch94_R,	1188,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+189	IpeLogger02#Ch95,	1189,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+190	IpeLogger02#Ch95_R,	1190,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+191	IpeLogger02#Ch96,	1191,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+192	IpeLogger02#Ch96_R,	1192,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
