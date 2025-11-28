@@ -1,5 +1,5 @@
 IpeLogger02#Ch01,	1001,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
-IpeLogger02#Ch01_R,	1002,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+IpeLogger02#Ch01_R,	1002,	mΩ,	DataTypeFloat,	3,	IpeTopic,	ipePartition
 IpeLogger02#Ch02,	1003,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
 IpeLogger02#Ch02_R,	1004,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
 IpeLogger02#Ch03,	1005,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
@@ -190,3 +190,4 @@ IpeLogger02#Ch95,	1189,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
 IpeLogger02#Ch95_R,	1190,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
 IpeLogger02#Ch96,	1191,	µV,	DataTypeFloat,	3,	IpeTopic,	ipePartition
 IpeLogger02#Ch96_R,	1192,	mW,	DataTypeFloat,	3,	IpeTopic,	ipePartition
+
