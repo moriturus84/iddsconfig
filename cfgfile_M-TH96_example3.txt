@@ -12,5 +12,3 @@ Module005/Config,active,true
 Module005/Config,sampleRate,100
 Module006/Config,active,true
 Module006/Config,sampleRate,100
-
-
