@@ -12,3 +12,4 @@ Module005/Config,active,true
 Module005/Config,sampleRate,50
 Module006/Config,active,true
 Module006/Config,sampleRate,50
+Module006/Config/ch00031,sensorBreakDetection,false
