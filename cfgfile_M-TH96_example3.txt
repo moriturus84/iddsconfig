@@ -1,4 +1,4 @@
 Device001/deviceType,740
 Device001/frontNumber,00101
 Module001/Config,active,true
-Module001/Config,sampleRate,100
+Module001/Config,sampleRate,10
