@@ -1,4 +1,2 @@
 Device001/deviceType,740
 Device001/frontNumber,00101
-
-
