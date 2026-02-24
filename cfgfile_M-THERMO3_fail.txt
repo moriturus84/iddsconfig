@@ -18,6 +18,3 @@ Module001/Config/ch00013,sensorMode,SENSOR_MODE_VOLTAGE
 Module001/Config/ch00014,sensorMode,SENSOR_MODE_VOLTAGE
 Module001/Config/ch00015,sensorMode,SENSOR_MODE_VOLTAGE
 Module001/Config/ch00016,sensorMode,SENSOR_MODE_VOLTAGE
-
-
-
