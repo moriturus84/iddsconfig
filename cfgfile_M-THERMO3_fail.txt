@@ -1,5 +1,5 @@
 Device001/deviceType,540
-Device001/frontNumber,00606
+Device001/frontNumber,01978
 Module001/Config,active,true
 Module001/Config/ch00001,active,true
 Module001/Config/ch00001,sensorMode,SENSOR_MODE_THERMOCOUPLE_TYPE_N
